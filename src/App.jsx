@@ -9,7 +9,7 @@ import Upload from '../pages/Upload';
 import Extract from '../pages/Extract';
 import Visual from '../pages/Visual';
 import Mydata from '../pages/Mydata';
-import AdminLogin from '../pages/Adminlogin';
+import AdminLogin from '../pages/AdminLogin';
 import AdminDashboard from '../pages/AdminDashboard';
 const App = () => (
   <Router>
